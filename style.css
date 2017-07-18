@@ -1,0 +1,19 @@
+body {
+	font-size: 2em;
+	margin: 25vh 30vw;
+	border: 1px solid #ccc;
+}
+
+.controls, .stopwatch {
+	text-align: center;
+}
+
+.controls {
+	padding-bottom: 1.2em;
+	margin-top: 1.2em;
+}
+
+.button {
+	padding: 0 0.5em;
+	text-decoration: none;
+}
